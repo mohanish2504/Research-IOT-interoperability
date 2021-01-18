@@ -1,0 +1,10 @@
+1.IoT Inter Operability:
+	a.The definition of IoT says that it is global
+platform for communication between self-configurable devices
+which have identities, use smart interfaces and connected to
+network without interruption
+
+2.How to achieve Interoperability?
+
+3. Interoperability Solutions 
+	a. Examples can be written down for Interoperability Technologies
